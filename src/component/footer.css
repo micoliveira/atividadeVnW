@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+
+}
+
+footer {
+    text-align: center;
+    font-family: "Poiret One", sans-serif;
+    font-size: 35px;
+    height: 10vh;
+    background-color: rgb(241, 159, 173);
+}   
