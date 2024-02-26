@@ -5,7 +5,7 @@ function Footer(){
     return(
         <>
             <footer>
-                <h2>Obrigada por tudo !!</h2>
+                <h2>Thanks!</h2>
             </footer>
         </>
     )
