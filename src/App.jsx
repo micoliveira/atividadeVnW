@@ -1,6 +1,7 @@
 import React from "react";
-import Main from "./component/Main.jsx";
-import Footer from "../src/component/Footer.jsx";
+import Main from "./component/Main/Main.jsx";
+import Footer from "./component/footer/Footer.jsx";
+
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <>
    <Main/>
    <Footer/>
+   
     </>
    
   )

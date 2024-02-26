@@ -13,6 +13,6 @@ main {
     font-family: "Poiret One", sans-serif;
     font-weight: 400;
     height: 90vh;
-    background-image: url(../assets/fundo.png);
+    background-image: url(../../assets/fundo.png);
     background-size:100% ;
 }
