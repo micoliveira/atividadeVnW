@@ -5,7 +5,7 @@ function Main(){
     return (
     <>
     <main>
-    <h1>Karynne and Carol the best teacher in the vai na web school 
+    <h1>Karynne and Carolina the best teacher in the vai na web school 
     </h1>
     </main>
     </>)
